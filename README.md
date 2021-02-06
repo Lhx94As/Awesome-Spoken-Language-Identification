@@ -1,6 +1,6 @@
 # Awesome-Spoken-Language-Identification
 An awesome spoken LID repository. (Working in progress  
-If you know some interesting papers，challenge, etc. that I haven't put in this repo, feel free to tell me!  
+If you know some interesting papers, challenge, etc. that I haven't put in this repo, feel free to tell me!  
 # Useful Links:  
 ## Datasets:  
 [openslr](https://openslr.org/resources.php) (open-source, plenty of datasets!)  
