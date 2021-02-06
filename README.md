@@ -3,8 +3,8 @@ An awesome spoken LID repository. (Working in progress
 
 # Useful Links:  
 ## Datasets:  
-    https://openslr.org/resources.php (open-source)  
-    https://commonvoice.mozilla.org/en (open-source)  
+    [openslr] (https://openslr.org/resources.php)
+    [Common-Voice]https://commonvoice.mozilla.org/en  
 ## Workshop/Challenge:  
     OLR Challenge: http://cslt.riit.tsinghua.edu.cn/mediawiki/index.php/OLR_Challenge_2020  
     NIST LRE (the latest is LRE 2017): https://www.nist.gov/itl/iad/mig/language-recognition  
