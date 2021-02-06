@@ -3,12 +3,12 @@ An awesome spoken LID repository. (Working in progress
 
 # Useful Links:  
 ## Datasets:  
-    [openslr] (https://openslr.org/resources.php)
-    [Common-Voice]https://commonvoice.mozilla.org/en  
+[openslr](https://openslr.org/resources.php) (open-source, plenty of datasets!)  
+[Common-Voice](https://commonvoice.mozilla.org/en) (open-source, thousands of hours)  
 ## Workshop/Challenge:  
-    OLR Challenge: http://cslt.riit.tsinghua.edu.cn/mediawiki/index.php/OLR_Challenge_2020  
-    NIST LRE (the latest is LRE 2017): https://www.nist.gov/itl/iad/mig/language-recognition  
-    1st WSTC of Interspeech 2020: https://www.microsoft.com/en-us/research/event/workshop-on-speech-technologies-for-code-switching-2020/  
+1. [OLR Challenge](http://cslt.riit.tsinghua.edu.cn/mediawiki/index.php/OLR_Challenge_2020)  
+2. [NIST LRE (the latest is LRE 2017)](https://www.nist.gov/itl/iad/mig/language-recognition)  
+3. [1st WSTC of Interspeech 2020](https://www.microsoft.com/en-us/research/event/workshop-on-speech-technologies-for-code-switching-2020/)  
   
 ## Papers: (from 2018 to now, yet I am updating the paper list)  
   
