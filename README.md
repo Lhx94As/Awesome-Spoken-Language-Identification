@@ -1,6 +1,5 @@
 # Awesome-Spoken-Language-Identification
 An awesome spoken LID repository. (Working in progress  
-Sincere thanks to people help me complete this repository!  
 If you know some interesting papers etc. that I didnt put in this repo, feel free to tell me!  
 # Useful Links:  
 ## Datasets:  
