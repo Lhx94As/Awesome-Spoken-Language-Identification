@@ -16,11 +16,11 @@ If you know some interesting papers, challenge, etc. that I haven't put in this 
 (from 2018 to now, yet I am updating the paper list)  
 An overview (stronly recommend): [Spoken Language Recognition: from fundamental to practice](https://ieeexplore.ieee.org/document/6451097)  
 ### Acoustic:  
-#### i-vector: A common baseline approach. Out of data but worth reading.  
+#### i-vector: A common baseline approach. Out of date but worth reading.  
 TASLP 2005: [Eigenvoice Modeling With Sparse Training Data](https://www.crim.ca/perso/patrick.kenny/eigenvoices.PDF)  
 TASLP 2007: [A Joint factor analysis approach to progressive model adaptation in text independent speaker verification](https://www.crim.ca/perso/patrick.kenny/IEEETrans07_Yin.pdf)  
 Interspeech 2011: [Language Recognition via Ivectors and Dimensionality Reduction](https://groups.csail.mit.edu/sls/publications/2011/Dehak_Interspeech11.pdf)  
-#### x-vector: A common baseline approach, developed by Dan's team.
+#### x-vector: A common baseline approach, developed by Dan's team. (SOTA in some tasks, Embedding+Classifier)
 Odessey 2018: [Spoken Language Recognition using X-vectors](https://www.danielpovey.com/files/2018_odyssey_xvector_lid.pdf)  
 #### Other Deep Learning appoaches:
 Interspeech 2018:  
