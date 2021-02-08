@@ -14,6 +14,7 @@ If you know some interesting papers, challenge, etc. that I haven't put in this 
 1. [Kaldi](https://kaldi-asr.org/) (Gorgeous toolkit, the LID parts are egs/LRE and egs/LRE07)  
 2. [XMUspeech](https://github.com/Snowdar/asv-subtools#2-ap-olr-challenge-2020-baseline-recipe-language-identification) (A toolkit bases on kaldi&pytorch, developed by Xiamen University's team)  
 ## Papers:  
+Apart from those LID papers, other papers about ASR, Speaker Verification/Recognition and Speaker Diarization are also worth reading.  
 (from 2018 to now, yet I am updating the paper list)  
 An overview (strongly recommend): [Spoken Language Recognition: from fundamental to practice](https://ieeexplore.ieee.org/document/6451097)  
 ### Acoustic:  
