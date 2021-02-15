@@ -23,7 +23,7 @@ An overview (strongly recommend): [Spoken Language Recognition: from fundamental
 TASLP 2005: [Eigenvoice Modeling With Sparse Training Data](https://www.crim.ca/perso/patrick.kenny/eigenvoices.PDF)  
 TASLP 2007: [A Joint factor analysis approach to progressive model adaptation in text independent speaker verification](https://www.crim.ca/perso/patrick.kenny/IEEETrans07_Yin.pdf)  
 Interspeech 2011: [Language Recognition via Ivectors and Dimensionality Reduction](https://groups.csail.mit.edu/sls/publications/2011/Dehak_Interspeech11.pdf)  
-#### x-vector: A common baseline NN-based Napproach, developed by Dan's team. (SOTA in some tasks, Embedding+Classifier)
+#### x-vector: A common baseline NN-based Napproach, developed by Dan's team. (SOTA in some tasks, Embedding+back-end scoring)
 Odessey 2018: [Spoken Language Recognition using X-vectors](https://www.danielpovey.com/files/2018_odyssey_xvector_lid.pdf)  
 #### Other Deep Learning appoaches:
 Interspeech 2018:  
