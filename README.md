@@ -32,6 +32,7 @@ Interspeech 2019:
 ICASSP 2019:  
 Interspeech 2020:  
 ICASSP 2020:  
+Odeyssey 2020:[BERTPHONE: Phonetically-aware Encoder Representations for Utterance-level Speaker and Language Recognition](https://www.isca-speech.org/archive/Odyssey_2020/pdfs/93.pdf)
 ### Phonotactic:  
 ### Prosody:  
 ### Lexical:  
