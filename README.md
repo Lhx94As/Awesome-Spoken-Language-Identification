@@ -18,7 +18,7 @@ If you know some interesting papers, challenge, etc. that I haven't put in this 
 Apart from these LID papers, other papers about ASR, Speaker Verification/Recognition and Speaker Diarization are also worth reading.  
 (from 2018 to now, yet I am updating the paper list)  
 An overview (strongly recommend): [Spoken Language Recognition: from fundamental to practice](https://ieeexplore.ieee.org/document/6451097)  
-### Acoustic:  
+### Acoustic Phonetic:  
 #### i-vector: A common baseline GMM-UBM-based approach. Out of date but worth reading.  
 TASLP 2005: [Eigenvoice Modeling With Sparse Training Data](https://www.crim.ca/perso/patrick.kenny/eigenvoices.PDF)  
 TASLP 2007: [A Joint factor analysis approach to progressive model adaptation in text independent speaker verification](https://www.crim.ca/perso/patrick.kenny/IEEETrans07_Yin.pdf)  
