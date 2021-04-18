@@ -3,7 +3,8 @@ An awesome spoken LID repository. (Working in progress
 I made this repository is to help people who are working alone for LID and fresh to this area. So feel free to discuss with me by email, etc.  
 If you know some interesting papers, challenge, etc. that I haven't put in this repo, feel free to tell me!  
 # Useful Links:  
-## Datasets:  
+## Datasets:
+[NIST Language Recognition Evaluation](https://www.nist.gov/itl/iad/mig/language-recognition) (The most famous and commonly used data)
 [openslr](https://openslr.org/resources.php) (open-source, plenty of datasets!)  
 [Common-Voice](https://commonvoice.mozilla.org/en) (open-source, thousands of hours)  
 ## Workshops/Challenges:  
