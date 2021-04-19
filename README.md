@@ -49,5 +49,6 @@ Odessey 2018: [Spoken Language Recognition using X-vectors](https://www.danielpo
 ### Phonotactic:  
 ### Prosody:  
 ### Lexical:  
-# Performance comparison:
+## Performance comparison:
+![plot]
 
