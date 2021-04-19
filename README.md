@@ -28,7 +28,7 @@ Interspeech 2011: [Language Recognition via Ivectors and Dimensionality Reductio
 Odessey 2018: [Spoken Language Recognition using X-vectors](https://www.danielpovey.com/files/2018_odyssey_xvector_lid.pdf)  
 #### Other Deep Learning appoaches:
 **Odessey 2018**:
-1.1[Exploring the Encoding Layer and Loss Function in End-to-End Speaker and Language Recognition System](https://arxiv.org/pdf/1804.05160.pdf)
+1.1[Exploring the Encoding Layer and Loss Function in End-to-End Speaker and Language Recognition System](https://arxiv.org/pdf/1804.05160.pdf)  
 **Interspeech 2018**:  
 **ICASSP 2018**:  
 **Interspeech 2019**:  
@@ -50,5 +50,8 @@ Odessey 2018: [Spoken Language Recognition using X-vectors](https://www.danielpo
 ### Prosody:  
 ### Lexical:  
 # Performance comparison:
-|  Paper   |Duration|EER|Cavg|LER|
-|Contextual|--------|---|----|---|
+|Paper|Duration|EER|Cavg|
+| 1.1 |   3s   |---|----|
+|     |  10s   |   |    |
+|     |  30s   |   |    |
+|-----|--------|---|----|
