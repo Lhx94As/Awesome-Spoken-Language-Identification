@@ -44,7 +44,9 @@ Odessey 2018: [Spoken Language Recognition using X-vectors](https://www.danielpo
 5.2 [Utterance-level End-to-End Language Identification using Attention based CNN-BLSTM](https://arxiv.org/pdf/1902.07374.pdf)(Test on LRE07)  
 5.3 [End-to-end Language Recognition Using Attention Based Hierarchical Gated Recurrent Unit Models](https://ieeexplore.ieee.org/document/8683895) (Test on LRE2017)  
 **Interspeech 2020**:  
+6.1   
 **ICASSP 2020**:  
+7.1   
 **Odeyssey 2020**:  
 8.1 [BERTPHONE: Phonetically-aware Encoder Representations for Utterance-level Speaker and Language Recognition](https://www.isca-speech.org/archive/Odyssey_2020/pdfs/93.pdf)
 ### Phonotactic:  
