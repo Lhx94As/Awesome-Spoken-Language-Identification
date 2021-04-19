@@ -50,5 +50,5 @@ Odessey 2018: [Spoken Language Recognition using X-vectors](https://www.danielpo
 ### Prosody:  
 ### Lexical:  
 ## Performance comparison:
-![plot]
+![plot](https://github.com/Lhx94As/Awesome-Spoken-Language-Identification/blob/main/past_year_papers.png)
 
