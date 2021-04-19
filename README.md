@@ -51,7 +51,8 @@ Odessey 2018: [Spoken Language Recognition using X-vectors](https://www.danielpo
 ### Lexical:  
 # Performance comparison:
 |Paper|Duration|EER|Cavg|
-| 1.1 |   3s   |---|----|
+|-----|--------|---|----|
+| 1.1 |   3s   |   |    |
 |     |  10s   |   |    |
 |     |  30s   |   |    |
 |-----|--------|---|----|
