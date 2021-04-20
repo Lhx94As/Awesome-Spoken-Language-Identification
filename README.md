@@ -51,6 +51,8 @@ Odessey 2018: [Spoken Language Recognition using X-vectors](https://www.danielpo
 7.1   
 **Odeyssey 2020**:  
 8.1 [BERTPHONE: Phonetically-aware Encoder Representations for Utterance-level Speaker and Language Recognition](https://www.isca-speech.org/archive/Odyssey_2020/pdfs/93.pdf)
+**TASLP**:  
+9.1 2020 volume 28 [Towards Relevance and Sequence Modeling in Language Recognition](https://ieeexplore.ieee.org/document/9052484)
 ### Phonotactic:  
 ### Prosody:  
 ### Lexical:  
