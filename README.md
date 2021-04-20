@@ -56,4 +56,4 @@ Odessey 2018: [Spoken Language Recognition using X-vectors](https://www.danielpo
 ### Lexical:  
 ## Performance comparison:
 ![plot](https://github.com/Lhx94As/Awesome-Spoken-Language-Identification/blob/main/performance_table.png)
-
+Note that the results of GMM ivector, DNN ivector and xvector are reported in 4.3
