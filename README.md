@@ -33,7 +33,7 @@ Odessey 2018: [Spoken Language Recognition using X-vectors](https://www.danielpo
 **Interspeech 2018**:  
 2.1  
 **ICASSP 2018**:  
-3.1  
+3.1 [Insights into End-to-End Learning Scheme for Language Identification](https://arxiv.org/pdf/1804.00381.pdf)  
 **Interspeech 2019**:  
 4.1 [Survey Talk - End-to-End Deep Neural Network Based Speaker and Language Recognition](https://sites.duke.edu/dkusmiip/files/2019/09/IS19_Survey_SRELRE_MingLi_v2.pdf)  
 4.2 [Contextual Phonetic Pretraining for End-to-end Utterance-level Language and Speaker Recognition](https://arxiv.org/pdf/1907.00457.pdf) (Test on LRE07)  
