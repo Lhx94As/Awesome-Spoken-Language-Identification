@@ -15,7 +15,7 @@ If you know some interesting papers, challenge, etc. that I haven't put in this 
 1. [Kaldi](https://kaldi-asr.org/) (Gorgeous toolkit, the LID parts are egs/LRE and egs/LRE07, developed by Dan Povey's team)  
 2. [ASV-Subtools](https://github.com/Snowdar/asv-subtools#2-ap-olr-challenge-2020-baseline-recipe-language-identification) (A toolkit bases on **kaldi&pytorch**, developed by Xiamen University's team)  
 3. [SpeechBrain](https://speechbrain.github.io/index.html)(SpeechBrain is an open-source and all-in-one speech toolkit relying on **PyTorch**, yet I have never tried it so far)  
-4. [lidbox](https://github.com/py-lidbox/lidbox) (Some implementations of models in recent Interspeech conferences by **tensorflow**)
+4. [lidbox](https://github.com/py-lidbox/lidbox) (Some implementations of models in recent Interspeech conferences on **tensorflow**)
 ## Papers:  
 Apart from these LID papers, other papers about ASR, Speaker Verification/Recognition and Speaker Diarization are also worth reading.  
 (from 2018 to now, yet I am updating the paper list)  
