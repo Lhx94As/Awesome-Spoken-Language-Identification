@@ -32,7 +32,7 @@ Odessey 2018: [Spoken Language Recognition using X-vectors](https://www.danielpo
 1.1 [Exploring the Encoding Layer and Loss Function in End-to-End Speaker and Language Recognition System](https://arxiv.org/pdf/1804.05160.pdf)  
 1.2 [Spoken Language Recognition using X-vectors](https://www.danielpovey.com/files/2018_odyssey_xvector_lid.pdf)  
 **Interspeech 2018**:  
-2.1 [Sub-band Envelope Features Using Frequency Domain Linear Prediction for Short Duration Language Identification](https://www.isca-speech.org/archive/Interspeech_2018/pdfs/1805.pdf)
+2.1 [Sub-band Envelope Features Using Frequency Domain Linear Prediction for Short Duration Language Identification](https://www.isca-speech.org/archive/Interspeech_2018/pdfs/1805.pdf)  
 **ICASSP 2018**:  
 3.1 [Insights into End-to-End Learning Scheme for Language Identification](https://arxiv.org/pdf/1804.00381.pdf)  
 **Interspeech 2019**:  
