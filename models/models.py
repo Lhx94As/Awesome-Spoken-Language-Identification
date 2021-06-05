@@ -3,7 +3,7 @@ import torch.nn as nn
 import torch.nn.functional as F
 from pooling_layers import *
 
-# Spoken lanuguage recognition using x-vector, in 2018 Odyssey
+# Spoken lanuguage recognition using x-vector
 # https://www.danielpovey.com/files/2018_odyssey_xvector_lid.pdf
 class xvecTDNN(nn.Module):
 
@@ -62,6 +62,8 @@ class xvecTDNN(nn.Module):
         # print("\toutput size", output.size())
         return output
 
+# A New Time-Frequency Attention Mechanism for TDNN and CNN-LSTM-TDNN, with Application to Language Identification
+# https://www.isca-speech.org/archive/Interspeech_2019/pdfs/1256.pdf
 class CNN_LSTM(nn.Module):
     def __init__(self, feature_dim, num_lang, dropout=0.4):
         super(CNN_LSTM, self).__init__()
@@ -98,7 +100,9 @@ class CNN_LSTM(nn.Module):
         x = F.relu(self.fn10(x))
         output = self.fn11(x)
         return output
-      
+
+# Attentive Statistics Pooling for Deep Speaker Embedding
+# https://www.isca-speech.org/archive/Interspeech_2018/pdfs/0993.pdf
 class Attensive_statistics_pooling(nn.Module):
     def __init__(self, inputdim, outputdim, attn_dropout=0.0):
         super(Attensive_statistics_pooling, self).__init__()
