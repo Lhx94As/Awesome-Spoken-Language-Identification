@@ -52,11 +52,15 @@ Odessey 2018: [Spoken Language Recognition using X-vectors](https://www.danielpo
 6.1 [Metric Learning Loss Functions to Reduce Domain Mismatch in the x-Vector Space for Language Recognition](https://isca-speech.org/archive/Interspeech_2020/pdfs/1708.pdf)   
 **ICASSP 2020**:  
 7.1   
+**Interspeech 2021**:  
+  
+**ICASSP 2021**:  
+  
 **Odeyssey 2020**:  
 8.1 [BERTPHONE: Phonetically-aware Encoder Representations for Utterance-level Speaker and Language Recognition](https://www.isca-speech.org/archive/Odyssey_2020/pdfs/93.pdf)  
 8.2 [Compensation on x-vector for Short Utterance Spoken Language Identification](https://www.isca-speech.org/archive/Odyssey_2020/pdfs/66.pdf)  
 **TASLP**:  
-9.1 2020 volume 28 [Towards Relevance and Sequence Modeling in Language Recognition](https://ieeexplore.ieee.org/document/9052484)
+1 2020 volume 28 [Towards Relevance and Sequence Modeling in Language Recognition](https://ieeexplore.ieee.org/document/9052484)
 ### Phonotactic:  
 ### Prosody:  
 ### Lexical:  
