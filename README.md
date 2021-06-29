@@ -1,6 +1,6 @@
 # Awesome-Spoken-Language-Identification
 An awesome spoken LID repository. (Working in progress  
-I made this repository is to help people who are working alone for LID and fresh to this area. So feel free to discuss with me by email, etc.  
+I made this repository to help people who are working alone for LID and fresh to this area. So feel free to discuss with me by email, etc.  
 If you know some interesting papers, challenge, etc. that I haven't put in this repo, feel free to tell me!  
   
 I am also including my pytorch re-implementation in folder models.
