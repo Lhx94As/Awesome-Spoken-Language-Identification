@@ -22,7 +22,7 @@ I am also including my pytorch re-implementation in folder models.
 6. [ESPNet](https://github.com/espnet)
 ## Papers:  
 Apart from these LID papers, other papers about ASR, Speaker Verification/Recognition and Speaker Diarization are also worth reading.  
-(from 2018 to now, yet I am updating the paper list)  
+(from 2018 to now, I am always updating the paper list)  
 An overview (strongly recommend): [Spoken Language Recognition: from fundamental to practice](https://ieeexplore.ieee.org/document/6451097)  
 ### Acoustic Phonetic:  
 #### i-vector: A common baseline GMM-UBM-based approach. Out of date but worth reading.  
