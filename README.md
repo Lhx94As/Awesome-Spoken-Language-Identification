@@ -5,8 +5,8 @@ If you know some interesting papers, challenge, etc. that I haven't put in this 
   
 I am also including my pytorch re-implementation in folder models.
 # News:  
-1. The OLR 2021 is opening for participanting! It's very worth trying!  
-2. The Interspeech 2021 will be held in late Aug!
+1. The OLR 2021 is opening for participanting! It's very worth trying! (10th Aug 2021)  
+2. The Interspeech 2021 will be held in late Aug! (10th Aug 2021)
 # Useful Links:  
 ## Datasets:
 [NIST Language Recognition Evaluation](https://www.nist.gov/itl/iad/mig/language-recognition) (The most famous and commonly used data)  
