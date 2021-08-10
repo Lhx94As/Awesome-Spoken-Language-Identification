@@ -4,6 +4,9 @@ I made this repository to help people who are working alone for LID and fresh to
 If you know some interesting papers, challenge, etc. that I haven't put in this repo, feel free to tell me!  
   
 I am also including my pytorch re-implementation in folder models.
+# News:  
+1. The OLR 2021 is opening for participanting! It's very worth trying!  
+2. The Interspeech 2021 will be held in late Aug!
 # Useful Links:  
 ## Datasets:
 [NIST Language Recognition Evaluation](https://www.nist.gov/itl/iad/mig/language-recognition) (The most famous and commonly used data)  
