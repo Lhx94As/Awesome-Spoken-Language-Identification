@@ -12,6 +12,7 @@ I am also including my pytorch re-implementation in folder models.
 [NIST Language Recognition Evaluation](https://www.nist.gov/itl/iad/mig/language-recognition) (The most famous and commonly used data)  
 [openslr](https://openslr.org/resources.php) (open-source, plenty of datasets!)  
 [Common-Voice](https://commonvoice.mozilla.org/en) (open-source, thousands of hours)  
+[OLR dataset](http://cslt.riit.tsinghua.edu.cn/mediawiki/index.php/OLR_Challenge_2020) Available to participants of the challenge.  
 ## Workshops/Challenges:  
 1. [OLR Challenge](http://cslt.riit.tsinghua.edu.cn/mediawiki/index.php/OLR_Challenge_2020): An Annual challenge, it is a special session in Interspeech 2021.  
 2. [NIST LRE (the latest is LRE 2017)](https://www.nist.gov/itl/iad/mig/language-recognition): The NIST LRE data are the most commonly used data for LID task in Interspeech, ICASSP and other top conferences/journals.  
