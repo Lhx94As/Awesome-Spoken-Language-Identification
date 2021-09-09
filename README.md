@@ -60,7 +60,7 @@ Odessey 2018: [Spoken Language Recognition using X-vectors](https://www.danielpo
 **ICASSP 2020**:  
 7.1   
 **Odyssey 2020**:  
-8.1 [BERTPHONE: Phonetically-aware Encoder Representations for Utterance-level Speaker and Language Recognition](https://www.isca-speech.org/archive/Odyssey_2020/pdfs/93.pdf)  
+8.1 [BERTPHONE: Phonetically-aware Encoder Representations for Utterance-level Speaker and Language Recognition](https://www.isca-speech.org/archive/pdfs/odyssey_2020/ling20_odyssey.pdf)  
 8.2 [Compensation on x-vector for Short Utterance Spoken Language Identification](https://www.isca-speech.org/archive/Odyssey_2020/pdfs/66.pdf)  
 **Interspeech 2021**:  
 9.1 [Modeling and Training Strategies for Language Recognition Systems](https://www.isca-speech.org/archive/pdfs/interspeech_2021/duroselle21_interspeech.pdf)  
