@@ -37,7 +37,7 @@ Interspeech 2011: [Language Recognition via Ivectors and Dimensionality Reductio
 #### x-vector: A common baseline NN-based approach, developed by JHU CLSP. (SOTA in some tasks, Embedding+back-end scoring)
 Odessey 2018: [Spoken Language Recognition using X-vectors](https://www.danielpovey.com/files/2018_odyssey_xvector_lid.pdf)  
 #### Other Deep Learning appoaches:
-**Odessey 2018**:  
+**Odyssey 2018**:  
 1.1 [Exploring the Encoding Layer and Loss Function in End-to-End Speaker and Language Recognition System](https://arxiv.org/pdf/1804.05160.pdf)  
 1.2 [Spoken Language Recognition using X-vectors](https://www.danielpovey.com/files/2018_odyssey_xvector_lid.pdf)  
 **Interspeech 2018**:  
@@ -59,7 +59,7 @@ Odessey 2018: [Spoken Language Recognition using X-vectors](https://www.danielpo
 6.1 [Metric Learning Loss Functions to Reduce Domain Mismatch in the x-Vector Space for Language Recognition](https://isca-speech.org/archive/Interspeech_2020/pdfs/1708.pdf)   
 **ICASSP 2020**:  
 7.1   
-**Odeyssey 2020**:  
+**Odyssey 2020**:  
 8.1 [BERTPHONE: Phonetically-aware Encoder Representations for Utterance-level Speaker and Language Recognition](https://www.isca-speech.org/archive/Odyssey_2020/pdfs/93.pdf)  
 8.2 [Compensation on x-vector for Short Utterance Spoken Language Identification](https://www.isca-speech.org/archive/Odyssey_2020/pdfs/66.pdf)  
 **Interspeech 2021**:  
