@@ -74,7 +74,9 @@ Note: The same work as 4.2, just read one of them.
 10.1  
 
 **TASLP**:  
-1 2020 volume 28 [Towards Relevance and Sequence Modeling in Language Recognition](https://ieeexplore.ieee.org/document/9052484)
+1. 2020 volume 28 [Towards Relevance and Sequence Modeling in Language Recognition](https://ieeexplore.ieee.org/document/9052484)  
+Note: A summary of 4.5 and 5.3. (But the results of their baselines seems strange, the i-vector and x-vector may be exchanged)
+
 ### Phonotactic:  
 ### Prosody:  
 ### Lexical:  
