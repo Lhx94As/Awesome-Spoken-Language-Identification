@@ -64,6 +64,7 @@ Odessey 2018: [Spoken Language Recognition using X-vectors](https://www.danielpo
 8.2 [Compensation on x-vector for Short Utterance Spoken Language Identification](https://www.isca-speech.org/archive/Odyssey_2020/pdfs/66.pdf)  
 **Interspeech 2021**:  
 9.1 [Modeling and Training Strategies for Language Recognition Systems](https://www.isca-speech.org/archive/pdfs/interspeech_2021/duroselle21_interspeech.pdf)  
+    Note: This paper summarized how pre-trained ASR model influences the LID performance, worth reading if you are interested in such topic (wav2vec, etc.)  
 9.2 [Self-Supervised Phonotactic Representations for Language Identification](https://www.isca-speech.org/archive/pdfs/interspeech_2021/ramesh21_interspeech.pdf)  
 9.3 [A Weight Moving Average Based Alternate Decoupled Learning Algorithm for Long-Tailed Language Identification](https://www.isca-speech.org/archive/pdfs/interspeech_2021/wang21o_interspeech.pdf)  
 9.4 [Serialized Multi-Layer Multi-Head Attention for Neural Speaker Embedding](https://www.isca-speech.org/archive/pdfs/interspeech_2021/zhu21c_interspeech.pdf)  
