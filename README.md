@@ -82,4 +82,4 @@ Note: A summary of 4.5 and 5.3. (But the results of their baselines seems strang
 ### Lexical:  
 ## Performance comparison:
 ![plot](https://github.com/Lhx94As/Awesome-Spoken-Language-Identification/blob/main/performance_.png)  
-**Note that the results of GMM ivector, DNN ivector and xvector are reported in 4.3, and all evaluations are conducted on NIST LRE 07**  
+**Note that the results of GMM ivector, DNN ivector and xvector are reported in 4.3, and all evaluations are conducted on NIST LRE 07. Some paper used data augmentation which can improve the performance**  
