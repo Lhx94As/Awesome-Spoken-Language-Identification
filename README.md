@@ -53,7 +53,7 @@ Odessey 2018: [Spoken Language Recognition using X-vectors](https://www.danielpo
 4.6 [Language Recognition using Triplet Neural Networks](https://www.isca-speech.org/archive/Interspeech_2019/pdfs/2437.pdf) (Test on LRE09, 15, 17)  
 **ICASSP 2019**:  
 5.1 [Interactive Learning of Teacher-student Model for Short Utterance Spoken Language Identification](https://ieeexplore.ieee.org/document/8683371)  
-Note: KD-based approach, this author proposed a series of papers for short-utterance LID not only based on KD but also other algorithm.  
+Note: KD-based approach, this author proposed a series of papers for short-utterance LID not only based on KD but also other algorithms, see 8.2.  
 5.2 [Utterance-level End-to-End Language Identification using Attention based CNN-BLSTM](https://arxiv.org/pdf/1902.07374.pdf)(Test on LRE07)  
 5.3 [End-to-end Language Recognition Using Attention Based Hierarchical Gated Recurrent Unit Models](https://ieeexplore.ieee.org/document/8683895) (Test on LRE2017)  
 **Interspeech 2020 [Language Recognition Session](https://isca-speech.org/archive/Interspeech_2020/)**:  
