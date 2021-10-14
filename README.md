@@ -25,6 +25,7 @@ I also included my pytorch re-implementation in folder models.
 4. [lidbox](https://github.com/py-lidbox/lidbox) (Some implementations of models in recent Interspeech conferences on **tensorflow**)  
 5. [WeNet](https://github.com/wenet-e2e)  
 6. [ESPNet](https://github.com/espnet)
+7. [s3prl](https://github.com/Lhx94As/s3prl)  
 ## Papers:  
 Apart from these LID papers, other papers about ASR, Speaker Verification/Recognition and Speaker Diarization are also worth reading.  
 (from 2018 to now, I am always updating the paper list)  
