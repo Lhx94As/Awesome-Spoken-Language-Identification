@@ -89,7 +89,7 @@ Odyssey 2018: [Spoken Language Recognition using X-vectors](https://www.danielpo
 >Apply transformer encoder layers as a pooling module for speaker verification, but I think it can also work for LID  
 
 9.5 [End-to-End Language Diarization for Bilingual Code-Switching Speech](https://www.isca-speech.org/archive/pdfs/interspeech_2021/liu21d_interspeech.pdf)  
->X-vector + transformer encoder layers for bilingual code-switching LID (language diarization in this case)  
+>TDNN layers + transformer encoder layers for bilingual code-switching LID (language diarization in this case), the last two TDNN layers are replaced by transformer encoder layers   
 
 **ICASSP 2021**:  
 10.1  
