@@ -30,15 +30,14 @@ Updated descriptions for some papers. For those I didn't, either I forgot what i
 Apart from these LID papers, other papers about ASR, Speaker Verification/Recognition and Speaker Diarization are also worth reading.  
 (from 2018 to now, I am always updating the paper list)  
 An overview (strongly recommend): [Spoken Language Recognition: from fundamental to practice](https://ieeexplore.ieee.org/document/6451097)  
-### Acoustic Phonetic:  
-#### i-vector: A common baseline GMM-UBM-based approach. Out of date but worth reading.  
+### i-vector: A common baseline GMM-UBM-based approach. Out of date but worth reading.  
 TASLP 2005: [Eigenvoice Modeling With Sparse Training Data](https://www.crim.ca/perso/patrick.kenny/eigenvoices.PDF)  
 TASLP 2007: [A Joint factor analysis approach to progressive model adaptation in text independent speaker verification](https://www.crim.ca/perso/patrick.kenny/IEEETrans07_Yin.pdf)  
 Interspeech 2011: [Language Recognition via Ivectors and Dimensionality Reduction](https://groups.csail.mit.edu/sls/publications/2011/Dehak_Interspeech11.pdf)  
-#### x-vector: A common baseline NN-based approach, developed by JHU CLSP. (SOTA in some tasks, Embedding+back-end scoring)
+### x-vector: A common baseline NN-based approach, developed by JHU CLSP. (SOTA in some tasks, Embedding+back-end scoring)
 Odyssey 2018: [Spoken Language Recognition using X-vectors](https://www.danielpovey.com/files/2018_odyssey_xvector_lid.pdf)  
 
-#### Other Deep Learning appoaches:
+### Other Deep Learning appoaches:
 **Odyssey 2018**:  
 1.1 [Exploring the Encoding Layer and Loss Function in End-to-End Speaker and Language Recognition System](https://arxiv.org/pdf/1804.05160.pdf)  
 >Kind of summary, there is a LDE layer which is interesting.  
@@ -95,10 +94,7 @@ Odyssey 2018: [Spoken Language Recognition using X-vectors](https://www.danielpo
 **TASLP**:  
 1. 2020 volume 28 [Towards Relevance and Sequence Modeling in Language Recognition](https://ieeexplore.ieee.org/document/9052484)  
 >A summary of 4.5 and 5.3. (But the results of their baselines seems strange, the i-vector and x-vector may be exchanged)  
-
-### Phonotactic:  
-### Prosody:  
-### Lexical:  
+  
 ## Performance comparison:
 ![plot](https://github.com/Lhx94As/Awesome-Spoken-Language-Identification/blob/main/performance_.png)  
 **Note that the results of GMM ivector, DNN ivector and xvector are reported in 4.3, and all evaluations are conducted on NIST LRE 07. Some paper used data augmentation which can improve the performance**  
