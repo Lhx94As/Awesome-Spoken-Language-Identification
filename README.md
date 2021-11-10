@@ -36,10 +36,15 @@ TASLP 2007: [A Joint factor analysis approach to progressive model adaptation in
 Interspeech 2011: [Language Recognition via Ivectors and Dimensionality Reduction](https://groups.csail.mit.edu/sls/publications/2011/Dehak_Interspeech11.pdf)  
 #### x-vector: A common baseline NN-based approach, developed by JHU CLSP. (SOTA in some tasks, Embedding+back-end scoring)
 Odyssey 2018: [Spoken Language Recognition using X-vectors](https://www.danielpovey.com/files/2018_odyssey_xvector_lid.pdf)  
+
 #### Other Deep Learning appoaches:
 **Odyssey 2018**:  
 1.1 [Exploring the Encoding Layer and Loss Function in End-to-End Speaker and Language Recognition System](https://arxiv.org/pdf/1804.05160.pdf)  
+>Kind of summary, there is a LDE layer which is interesting.  
+
 1.2 [Spoken Language Recognition using X-vectors](https://www.danielpovey.com/files/2018_odyssey_xvector_lid.pdf)  
+>JUST READ IT! The most commonly used baseline for now!  
+
 **Interspeech 2018**:  
 2.1 [Sub-band Envelope Features Using Frequency Domain Linear Prediction for Short Duration Language Identification](https://www.isca-speech.org/archive/Interspeech_2018/pdfs/1805.pdf)  
 **ICASSP 2018**:  
