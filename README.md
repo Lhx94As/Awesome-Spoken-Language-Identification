@@ -87,6 +87,7 @@ Odyssey 2018: [Spoken Language Recognition using X-vectors](https://www.danielpo
 9.3 [A Weight Moving Average Based Alternate Decoupled Learning Algorithm for Long-Tailed Language Identification](https://www.isca-speech.org/archive/pdfs/interspeech_2021/wang21o_interspeech.pdf)  
 9.4 [Serialized Multi-Layer Multi-Head Attention for Neural Speaker Embedding](https://www.isca-speech.org/archive/pdfs/interspeech_2021/zhu21c_interspeech.pdf)  
 >Apply transformer encoder layers as a pooling module for speaker verification, but I think it can also work for LID  
+
 9.5 [End-to-End Language Diarization for Bilingual Code-Switching Speech](https://www.isca-speech.org/archive/pdfs/interspeech_2021/liu21d_interspeech.pdf)  
 >X-vector + transformer encoder layers for bilingual code-switching LID (language diarization in this case)  
 
