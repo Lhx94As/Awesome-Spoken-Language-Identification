@@ -54,7 +54,7 @@ Odyssey 2018: [Spoken Language Recognition using X-vectors](https://www.danielpo
 4.6 [Language Recognition using Triplet Neural Networks](https://www.isca-speech.org/archive/Interspeech_2019/pdfs/2437.pdf) (Test on LRE09, 15, 17)  
 **ICASSP 2019**:  
 5.1 [Interactive Learning of Teacher-student Model for Short Utterance Spoken Language Identification](https://ieeexplore.ieee.org/document/8683371)  
-    > Note: KD-based approach, this author proposed a series of papers for short-utterance LID not only based on KD but also other algorithms, see 8.2.  
+    >Note: KD-based approach, this author proposed a series of papers for short-utterance LID not only based on KD but also other algorithms, see 8.2.  
 5.2 [Utterance-level End-to-End Language Identification using Attention based CNN-BLSTM](https://arxiv.org/pdf/1902.07374.pdf)(Test on LRE07)  
 5.3 [End-to-end Language Recognition Using Attention Based Hierarchical Gated Recurrent Unit Models](https://ieeexplore.ieee.org/document/8683895) (Test on LRE2017)  
 **Interspeech 2020 [Language Recognition Session](https://isca-speech.org/archive/Interspeech_2020/)**:  
@@ -67,17 +67,17 @@ Note: The same work as 4.2, just read one of them.
 8.2 [Compensation on x-vector for Short Utterance Spoken Language Identification](https://www.isca-speech.org/archive/Odyssey_2020/pdfs/66.pdf)  
 **Interspeech 2021**:  
 9.1 [Modeling and Training Strategies for Language Recognition Systems](https://www.isca-speech.org/archive/pdfs/interspeech_2021/duroselle21_interspeech.pdf)  
-    > Note: This paper summarized how pre-trained ASR model influences the LID performance, worth reading if you are interested in such topic (wav2vec, etc.)  
+    >Note: This paper summarized how pre-trained ASR model influences the LID performance, worth reading if you are interested in such topic (wav2vec, etc.)  
 9.2 [Self-Supervised Phonotactic Representations for Language Identification](https://www.isca-speech.org/archive/pdfs/interspeech_2021/ramesh21_interspeech.pdf)  
 9.3 [A Weight Moving Average Based Alternate Decoupled Learning Algorithm for Long-Tailed Language Identification](https://www.isca-speech.org/archive/pdfs/interspeech_2021/wang21o_interspeech.pdf)  
 9.4 [Serialized Multi-Layer Multi-Head Attention for Neural Speaker Embedding](https://www.isca-speech.org/archive/pdfs/interspeech_2021/zhu21c_interspeech.pdf)  
-    > Note: Apply transformer encoder layers as a pooling module.
+    >Note: Apply transformer encoder layers as a pooling module.
 **ICASSP 2021**:  
 10.1  
 
 **TASLP**:  
 1. 2020 volume 28 [Towards Relevance and Sequence Modeling in Language Recognition](https://ieeexplore.ieee.org/document/9052484)  
-    > Note: A summary of 4.5 and 5.3. (But the results of their baselines seems strange, the i-vector and x-vector may be exchanged)
+    >Note: A summary of 4.5 and 5.3. (But the results of their baselines seems strange, the i-vector and x-vector may be exchanged)
 
 ### Phonotactic:  
 ### Prosody:  
