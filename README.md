@@ -3,7 +3,7 @@ An awesome spoken LID repository. (Working in progress
 I made this repository to help people who are working alone for LID and fresh to this area. So feel free to discuss with me by email, etc.  
 If you know some interesting papers, challenge, etc. which I haven't put in this repo, feel free to tell me!  
   
-I also included my pytorch re-implementation in folder models.
+I also included my pytorch re-implementation in folder models.  
 Updated descriptions for some papers. For those I didn't, either I forgot what it is exactly about or the title is too straightforward.  
 # News:  
 1. The OLR 2021 is opening for participanting! It's very worth trying! (10th Aug 2021)  
