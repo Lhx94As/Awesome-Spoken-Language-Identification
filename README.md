@@ -6,10 +6,11 @@ If you know some interesting papers, challenge, etc. which I haven't put in this
 I also included my pytorch re-implementation in folder models.  
 Updated descriptions for some papers. For those I didn't, either I forgot what it is exactly about or the title is too straightforward.  
 # News:  
-1. The odyssey 2022 and interspeech 2022 is calling for papers!
+1. The odyssey 2022 us calling for papers (DDL: FEB 15th)
+2. The interspeech 2022 is calling for papers! (DDL:MAR 21st)
 
 
-# Recommeded conferences&Journals:
+# Recommended conferences&Journals:
 Interspeech, Odyssey, ICASSP, APSIPA, ASRU, SLT, TASLP, JSTSP, Speech Comm, Signal Processing Letter, etc.  
 # Useful Links:  
 ## Datasets:
