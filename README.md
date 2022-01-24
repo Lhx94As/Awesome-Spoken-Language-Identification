@@ -6,8 +6,11 @@ If you know some interesting papers, challenge, etc. which I haven't put in this
 I also included my pytorch re-implementation in folder models.  
 Updated descriptions for some papers. For those I didn't, either I forgot what it is exactly about or the title is too straightforward.  
 # News:  
-1. The OLR 2021 is opening for participanting! It's very worth trying! (10th Aug 2021)  
- 
+1. The odyssey 2022 and interspeech 2022 is calling for papers!
+
+
+# Recommeded conferences&Journals:
+Interspeech, Odyssey, ICASSP, APSIPA, ASRU, SLT, TASLP, JSTSP, Speech Comm, Signal Processing Letter, etc.  
 # Useful Links:  
 ## Datasets:
 [NIST Language Recognition Evaluation](https://www.nist.gov/itl/iad/mig/language-recognition) (The most famous and commonly used data)  
@@ -24,8 +27,9 @@ Updated descriptions for some papers. For those I didn't, either I forgot what i
 3. [SpeechBrain](https://speechbrain.github.io/index.html)(SpeechBrain is an open-source and all-in-one speech toolkit relying on **PyTorch**, yet I have never tried it so far)  
 4. [lidbox](https://github.com/py-lidbox/lidbox) (Some implementations of models in recent Interspeech conferences on **tensorflow**)  
 5. [WeNet](https://github.com/wenet-e2e)  
-6. [ESPNet](https://github.com/espnet)
-7. [s3prl](https://github.com/Lhx94As/s3prl)  
+6. [ESPNet](https://github.com/espnet) For E2E ASR  
+7. [s3prl](https://github.com/Lhx94As/s3prl) For wav2vec models application  
+8. [hugging face](https://huggingface.co/docs/transformers/model_doc/wav2vec2) For wav2vec models  
 ## Papers:  
 Apart from these LID papers, other papers about ASR, Speaker Verification/Recognition and Speaker Diarization are also worth reading.  
 (from 2018 to now, I am always updating the paper list)  
