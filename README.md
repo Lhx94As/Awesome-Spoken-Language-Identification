@@ -64,6 +64,7 @@ Odyssey 2018: [Spoken Language Recognition using X-vectors](https://www.danielpo
 4.5 [Attention Based Hybrid i-Vector BLSTM Model for Language Recognition](https://www.isca-speech.org/archive/Interspeech_2019/pdfs/2371.pdf) (Test on LRE17 and noisy data)  
 >Two stage processing, first i-vector extraction in 200ms level with 100ms overlap. Then feed the i-vectors into a BLSTM model for LID.  
 4.6 [Language Recognition using Triplet Neural Networks](https://www.isca-speech.org/archive/pdfs/interspeech_2019/mingote19b_interspeech.pdf) (Test on LRE09, 15, 17)  
+ 
 **ICASSP 2019**:  
 5.1 [Interactive Learning of Teacher-student Model for Short Utterance Spoken Language Identification](https://ieeexplore.ieee.org/document/8683371)  
 >KD-based approach, this author proposed a series of papers for short-utterance LID not only based on KD but also other algorithms, see 8.2.  
