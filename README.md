@@ -1,10 +1,9 @@
 # Awesome-Spoken-Language-Identification
 A spoken LID repository, mainly focuses on conference papers since they are updated quickly.   
 I made this repository to help people who are working alone for LID and fresh to this area. So feel free to discuss with me by email, etc.  
-  
-I also included my pytorch re-implementation in the folder models, and the codes of my work have been made publicly, however I can not upload the pre-trained models due to the licenses of LDC NIST LRE and OLR challenge.  
 
 **Updated descriptions for some papers. For those I didn't, either I forgot what it is exactly about or the title is too straightforward.**  
+**A pytorch x-vector implementation was put in this repo, yet I recommend more the asv-subtools and kaldi recipe, theirs are better**
 # News:  
 1. The odyssey 2022 will be held in late June  
 2. The interspeech 2022 will be held in late September  
