@@ -85,7 +85,7 @@ Odyssey 2018: [Spoken Language Recognition using X-vectors](https://www.danielpo
 
 8.2 [Compensation on x-vector for Short Utterance Spoken Language Identification](https://www.isca-speech.org/archive/Odyssey_2020/pdfs/66.pdf)  
 **ICASSP 2021**:  
-9.1 
+9.1   
 **Interspeech 2021**:  
 10.1 [Modeling and Training Strategies for Language Recognition Systems](https://www.isca-speech.org/archive/pdfs/interspeech_2021/duroselle21_interspeech.pdf)  
 >This paper summarized how pre-trained ASR model influences the LID performance, worth reading if you are interested in such topic (wav2vec, etc.)  
