@@ -84,21 +84,28 @@ Odyssey 2018: [Spoken Language Recognition using X-vectors](https://www.danielpo
 >The same work as 4.2, just read one of them.  
 
 8.2 [Compensation on x-vector for Short Utterance Spoken Language Identification](https://www.isca-speech.org/archive/Odyssey_2020/pdfs/66.pdf)  
+**ICASSP 2021**:  
+9.1 
 **Interspeech 2021**:  
-9.1 [Modeling and Training Strategies for Language Recognition Systems](https://www.isca-speech.org/archive/pdfs/interspeech_2021/duroselle21_interspeech.pdf)  
+10.1 [Modeling and Training Strategies for Language Recognition Systems](https://www.isca-speech.org/archive/pdfs/interspeech_2021/duroselle21_interspeech.pdf)  
 >This paper summarized how pre-trained ASR model influences the LID performance, worth reading if you are interested in such topic (wav2vec, etc.)  
 
-9.2 [Self-Supervised Phonotactic Representations for Language Identification](https://www.isca-speech.org/archive/pdfs/interspeech_2021/ramesh21_interspeech.pdf)  
-9.3 [A Weight Moving Average Based Alternate Decoupled Learning Algorithm for Long-Tailed Language Identification](https://www.isca-speech.org/archive/pdfs/interspeech_2021/wang21o_interspeech.pdf)  
-9.4 [Serialized Multi-Layer Multi-Head Attention for Neural Speaker Embedding](https://www.isca-speech.org/archive/pdfs/interspeech_2021/zhu21c_interspeech.pdf)  
+10.2 [Self-Supervised Phonotactic Representations for Language Identification](https://www.isca-speech.org/archive/pdfs/interspeech_2021/ramesh21_interspeech.pdf)  
+10.3 [A Weight Moving Average Based Alternate Decoupled Learning Algorithm for Long-Tailed Language Identification](https://www.isca-speech.org/archive/pdfs/interspeech_2021/wang21o_interspeech.pdf)  
+10.4 [Serialized Multi-Layer Multi-Head Attention for Neural Speaker Embedding](https://www.isca-speech.org/archive/pdfs/interspeech_2021/zhu21c_interspeech.pdf)  
 >Apply transformer encoder layers as a pooling module for speaker verification, but I think it can also work for LID  
 
-9.5 [End-to-End Language Diarization for Bilingual Code-Switching Speech](https://www.isca-speech.org/archive/pdfs/interspeech_2021/liu21d_interspeech.pdf)  
+10.5 [End-to-End Language Diarization for Bilingual Code-Switching Speech](https://www.isca-speech.org/archive/pdfs/interspeech_2021/liu21d_interspeech.pdf)  
 >TDNN layers + transformer encoder layers for bilingual code-switching LID (language diarization in this case), the last two TDNN layers are replaced by transformer encoder layers   
 
-**ICASSP 2021**:  
-10.1  
-
+ 
+**ICASSP 2022**
+11.1 [Phonotactic Language Recognition Using A Universal Phoneme Recognizer and A Transformer Architecture](https://ieeexplore.ieee.org/document/9746459)  
+11.2 [Spoken Language Recognition with Cluster-Based Modeling](https://ieeexplore.ieee.org.remotexs.ntu.edu.sg/document/9747515)  
+**Odyssey**
+12.1 [Enhance Language Identification using Dual-mode Model with Knowledge Distillation](https://arxiv.org/abs/2203.03218)  
+**Interspeech2022**
+13.1 [PHO-LID: A Unified Model Incorporating Acoustic-Phonetic and Phonotactic Information for Language Identification](https://arxiv.org/abs/2203.12366)  
 **TASLP**:  
 1. 2020 volume 28 [Towards Relevance and Sequence Modeling in Language Recognition](https://ieeexplore.ieee.org/document/9052484)  
 >A summary of 4.5 and 5.3. (But the results of their baselines seems strange, the i-vector and x-vector may be exchanged)  
