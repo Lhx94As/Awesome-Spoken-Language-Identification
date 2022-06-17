@@ -1,13 +1,14 @@
 # Awesome-Spoken-Language-Identification
-An awesome spoken LID repository. (Working in progress  
+A spoken LID repository, mainly focuses on conference papers since they are updated quickly.   
 I made this repository to help people who are working alone for LID and fresh to this area. So feel free to discuss with me by email, etc.  
-If you know some interesting papers, challenge, etc. which I haven't put in this repo, feel free to tell me!  
   
-I also included my pytorch re-implementation in folder models.  
-Updated descriptions for some papers. For those I didn't, either I forgot what it is exactly about or the title is too straightforward.  
+I also included my pytorch re-implementation in the folder models, and the codes of my work have been made publicly, however I can not upload the pre-trained models due to the licenses of LDC NIST LRE and OLR challenge.  
+
+**Updated descriptions for some papers. For those I didn't, either I forgot what it is exactly about or the title is too straightforward.**  
 # News:  
-1. The odyssey 2022 us calling for papers (DDL: FEB 15th)
-2. The interspeech 2022 is calling for papers! (DDL:MAR 21st)
+1. The odyssey 2022 will be held in late June  
+2. The interspeech 2022 will be held in late September  
+3. The SLT is calling for papers! (DDL: July)
 
 
 # Recommended conferences&Journals:
