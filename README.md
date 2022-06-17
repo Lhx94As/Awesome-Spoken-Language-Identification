@@ -64,13 +64,16 @@ Odyssey 2018: [Spoken Language Recognition using X-vectors](https://www.danielpo
 4.4 [The XMUSPEECH System for the AP19-OLR Challenge](http://www.interspeech2020.org/uploadfile/pdf/Mon-1-11-2.pdf) (Test on AP19-OLR, best performer)  
 4.5 [Attention Based Hybrid i-Vector BLSTM Model for Language Recognition](https://www.isca-speech.org/archive/Interspeech_2019/pdfs/2371.pdf) (Test on LRE17 and noisy data)  
 >Two stage processing, first i-vector extraction in 200ms level with 100ms overlap. Then feed the i-vectors into a BLSTM model for LID.  
+
 4.6 [Language Recognition using Triplet Neural Networks](https://www.isca-speech.org/archive/pdfs/interspeech_2019/mingote19b_interspeech.pdf) (Test on LRE09, 15, 17)  
  
 **ICASSP 2019**:  
 5.1 [Interactive Learning of Teacher-student Model for Short Utterance Spoken Language Identification](https://ieeexplore.ieee.org/document/8683371)  
 >KD-based approach, this author proposed a series of papers for short-utterance LID not only based on KD but also other algorithms, see 8.2.  
+
 5.2 [Utterance-level End-to-End Language Identification using Attention based CNN-BLSTM](https://arxiv.org/pdf/1902.07374.pdf)(Test on LRE07)  
 >Apply self-attention for pooling with a CNN-BLSTM backbone.  
+
 5.3 [End-to-end Language Recognition Using Attention Based Hierarchical Gated Recurrent Unit Models](https://ieeexplore.ieee.org/document/8683895) (Test on LRE2017)  
 > Stack two GRUs layers then self-attention for pooling (like 5.2).  
 
@@ -83,6 +86,7 @@ Odyssey 2018: [Spoken Language Recognition using X-vectors](https://www.danielpo
 **Odyssey 2020**:  
 8.1 [BERTPHONE: Phonetically-aware Encoder Representations for Utterance-level Speaker and Language Recognition](https://www.isca-speech.org/archive/pdfs/odyssey_2020/ling20_odyssey.pdf)  
 >The same work as 4.2, just read one of them.  
+
 8.2 [Compensation on x-vector for Short Utterance Spoken Language Identification](https://www.isca-speech.org/archive/Odyssey_2020/pdfs/66.pdf)  
 
 **ICASSP 2021**:  
@@ -91,12 +95,16 @@ Odyssey 2018: [Spoken Language Recognition using X-vectors](https://www.danielpo
 **Interspeech 2021**:  
 10.1 [Modeling and Training Strategies for Language Recognition Systems](https://www.isca-speech.org/archive/pdfs/interspeech_2021/duroselle21_interspeech.pdf)  
 >This paper summarized how pre-trained ASR model influences the LID performance, worth reading if you are interested in such topic (wav2vec, etc.)  
+
 10.2 [Self-Supervised Phonotactic Representations for Language Identification](https://www.isca-speech.org/archive/pdfs/interspeech_2021/ramesh21_interspeech.pdf)  
 >This paper mainly showed how effective the wav2vec features can be in a LID task, and tried to prove the existence of phonotactic information in wav2vec features.  
+
 10.3 [A Weight Moving Average Based Alternate Decoupled Learning Algorithm for Long-Tailed Language Identification](https://www.isca-speech.org/archive/pdfs/interspeech_2021/wang21o_interspeech.pdf)  
 >This paper introduced some training strategies to tackle the long-tailed LID task.  
+
 10.4 [Serialized Multi-Layer Multi-Head Attention for Neural Speaker Embedding](https://www.isca-speech.org/archive/pdfs/interspeech_2021/zhu21c_interspeech.pdf)  
 >Apply transformer encoder layers as a pooling module for speaker verification, but I think it can also work for LID.  
+
 10.5 [End-to-End Language Diarization for Bilingual Code-Switching Speech](https://www.isca-speech.org/archive/pdfs/interspeech_2021/liu21d_interspeech.pdf)  
 >TDNN layers + transformer encoder layers for bilingual code-switching LID (language diarization in this case), the last two TDNN layers are replaced by transformer encoder layers.   
 
