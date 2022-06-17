@@ -109,7 +109,7 @@ Odyssey 2018: [Spoken Language Recognition using X-vectors](https://www.danielpo
 13.1 [PHO-LID: A Unified Model Incorporating Acoustic-Phonetic and Phonotactic Information for Language Identification](https://arxiv.org/abs/2203.12366)  
 **TASLP**:  
 1. 2020 volume 28 [Towards Relevance and Sequence Modeling in Language Recognition](https://ieeexplore.ieee.org/document/9052484)  
->A summary of 4.5 and 5.3. (But the results of their baselines seems strange, the i-vector and x-vector may be exchanged)  
+>A summary of 4.5 and 5.3. (But the results of their baselines seems strange, from my personal understanding, the i-vector and x-vector may be exchanged)  
   
 ## Performance comparison:
 ![plot](https://github.com/Lhx94As/Awesome-Spoken-Language-Identification/blob/main/performance_.png)  
