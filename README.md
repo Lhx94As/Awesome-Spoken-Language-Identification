@@ -101,7 +101,8 @@ Odyssey 2018: [Spoken Language Recognition using X-vectors](https://www.danielpo
  
 **ICASSP 2022**:  
 11.1 [Phonotactic Language Recognition Using A Universal Phoneme Recognizer and A Transformer Architecture](https://ieeexplore.ieee.org/document/9746459)  
-11.2 [Spoken Language Recognition with Cluster-Based Modeling](https://ieeexplore.ieee.org.remotexs.ntu.edu.sg/document/9747515)  
+11.2 [Spoken Language Recognition with Cluster-Based Modeling](https://ieeexplore.ieee.org/document/9747515)  
+11.3 [Improved Language Identification Through Cross-Lingual Self-Supervised Learning](https://arxiv.org/pdf/2107.04082.pdf)  
 **Odyssey 2022**:  
 12.1 [Enhance Language Identification using Dual-mode Model with Knowledge Distillation](https://arxiv.org/abs/2203.03218)  
 **Interspeech 2022**:  
