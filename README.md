@@ -99,12 +99,12 @@ Odyssey 2018: [Spoken Language Recognition using X-vectors](https://www.danielpo
 >TDNN layers + transformer encoder layers for bilingual code-switching LID (language diarization in this case), the last two TDNN layers are replaced by transformer encoder layers   
 
  
-**ICASSP 2022**
+**ICASSP 2022**:  
 11.1 [Phonotactic Language Recognition Using A Universal Phoneme Recognizer and A Transformer Architecture](https://ieeexplore.ieee.org/document/9746459)  
 11.2 [Spoken Language Recognition with Cluster-Based Modeling](https://ieeexplore.ieee.org.remotexs.ntu.edu.sg/document/9747515)  
-**Odyssey**
+**Odyssey**:  
 12.1 [Enhance Language Identification using Dual-mode Model with Knowledge Distillation](https://arxiv.org/abs/2203.03218)  
-**Interspeech2022**
+**Interspeech2022**:  
 13.1 [PHO-LID: A Unified Model Incorporating Acoustic-Phonetic and Phonotactic Information for Language Identification](https://arxiv.org/abs/2203.12366)  
 **TASLP**:  
 1. 2020 volume 28 [Towards Relevance and Sequence Modeling in Language Recognition](https://ieeexplore.ieee.org/document/9052484)  
