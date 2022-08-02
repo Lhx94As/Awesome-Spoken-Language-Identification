@@ -5,13 +5,13 @@ I made this repository to help people who are working alone for LID and fresh to
 **Updated descriptions for some papers. For those I didn't, either I forgot what it is exactly about or the title is too straightforward.**  
 **A pytorch x-vector implementation was put in this repo, yet I recommend more the asv-subtools and kaldi recipe, theirs are better**
 # News:  
-1. The odyssey 2022 will be held in late June  
-2. The interspeech 2022 will be held in late September  
-3. The SLT is calling for papers! (DDL: July)
+1. The interspeech 2022 will be held in late September.  
+2. JSTSP held a special issue for self-supervised learning for speech signal processing, papers may be released soon.  
+3. NIST LRE 2022 is calling for participation.  
 
 
 # Recommended conferences&Journals:
-Interspeech, Odyssey, ICASSP, APSIPA, ASRU, SLT, TASLP, JSTSP, Speech Comm, Signal Processing Letter, etc.  
+Interspeech, Odyssey, ICASSP, APSIPA, ASRU, SLT, TSP, TASLP, JSTSP, Speech Comm, Signal Processing Letter, etc.  
 # Useful Links:  
 ## Datasets:
 [NIST Language Recognition Evaluation](https://www.nist.gov/itl/iad/mig/language-recognition) (The most famous and commonly used data)  
@@ -114,7 +114,9 @@ Odyssey 2018: [Spoken Language Recognition using X-vectors](https://www.danielpo
 11.3 [Improved Language Identification Through Cross-Lingual Self-Supervised Learning](https://arxiv.org/pdf/2107.04082.pdf)  
 
 **Odyssey 2022**:  
-12.1 [Enhancing Language Identification using Dual-mode Model with Knowledge Distillation](https://arxiv.org/abs/2203.03218)  
+12.1 [Enhancing Language Identification using Dual-mode Model with Knowledge Distillation](https://www.isca-speech.org/archive/pdfs/odyssey_2022/liu22c_odyssey.pdf)  
+12.2 [Attentive Temporal Pooling for Conformer-Based Streaming Language Identification in Long-Form Speech](https://www.isca-speech.org/archive/pdfs/odyssey_2022/wang22b_odyssey.pdf)  
+12.3 [Pretraining Approaches for Spoken Language Recognition: TalTech Submission to the OLR 2021 Challenge](https://www.isca-speech.org/archive/pdfs/odyssey_2022/alumae22_odyssey.pdf)  
 
 **Interspeech 2022**:  
 13.1 [PHO-LID: A Unified Model Incorporating Acoustic-Phonetic and Phonotactic Information for Language Identification](https://arxiv.org/abs/2203.12366)  
