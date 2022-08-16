@@ -1,13 +1,14 @@
 # Awesome-Spoken-Language-Identification
 A spoken LID repository, mainly focuses on conference papers since they are updated quickly.   
-I made this repository to help people who are working alone for LID and fresh to this area. So feel free to discuss with me by email, etc.  
+I made this repository to help people who are working alone for LID or fresh to this area. So feel free to discuss with me by email, etc.  
 
 **Updated descriptions for some papers. For those I didn't, either I forgot what it is exactly about or the title is too straightforward.**  
-**A pytorch x-vector implementation was put in this repo, yet I recommend more the asv-subtools and kaldi recipe, theirs are better**
+**A pytorch x-vector implementation was put in this repo, yet I recommend more the asv-subtools, espnet, and kaldi recipe, they are better**
 # News:  
-1. The interspeech 2022 will be held in late September.  
+1. The interspeech 2022 will be held in late September in Korea.  
 2. JSTSP held a special issue for self-supervised learning for speech signal processing, papers may be released soon.  
 3. NIST LRE 2022 is calling for participation.  
+4. ICASSP 2023 is calling for papers.
 
 
 # Recommended conferences&Journals:
@@ -124,6 +125,8 @@ Odyssey 2018: [Spoken Language Recognition using X-vectors](https://www.danielpo
 **TASLP**:  
 1. 2020 volume 28 [Towards Relevance and Sequence Modeling in Language Recognition](https://ieeexplore.ieee.org/document/9052484)  
 >A summary of 4.5 and 5.3. (But the results of their baselines seems strange, from my personal understanding, the i-vector and x-vector may be exchanged)  
+2. 2022 volume 30 [A Discriminative Hierarchical PLDA-Based Model for Spoken Language Recognition](https://ieeexplore.ieee.org/document/9844653)  
+>
   
 ## Performance comparison:
 ![plot](https://github.com/Lhx94As/Awesome-Spoken-Language-Identification/blob/main/performance_.png)  
