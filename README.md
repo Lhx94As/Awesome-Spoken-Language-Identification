@@ -111,16 +111,24 @@ Odyssey 2018: [Spoken Language Recognition using X-vectors](https://www.danielpo
 
 **ICASSP 2022**:  
 11.1 [Phonotactic Language Recognition Using A Universal Phoneme Recognizer and A Transformer Architecture](https://ieeexplore.ieee.org/document/9746459)  
+>Phonotactic LID with transformer encoder.  
+
 11.2 [Spoken Language Recognition with Cluster-Based Modeling](https://ieeexplore.ieee.org/document/9747515)  
 11.3 [Improved Language Identification Through Cross-Lingual Self-Supervised Learning](https://arxiv.org/pdf/2107.04082.pdf)  
 
 **Odyssey 2022**:  
 12.1 [Enhancing Language Identification using Dual-mode Model with Knowledge Distillation](https://www.isca-speech.org/archive/pdfs/odyssey_2022/liu22c_odyssey.pdf)  
+>Dual-mode LID, one for general speech, the other for its short clips. Show high performance improvement on both long and short-utterance LID.  
+
 12.2 [Attentive Temporal Pooling for Conformer-Based Streaming Language Identification in Long-Form Speech](https://www.isca-speech.org/archive/pdfs/odyssey_2022/wang22b_odyssey.pdf)  
+>Streaming LID is achieved by accumulating the statistics frame by frame. 
+
 12.3 [Pretraining Approaches for Spoken Language Recognition: TalTech Submission to the OLR 2021 Challenge](https://www.isca-speech.org/archive/pdfs/odyssey_2022/alumae22_odyssey.pdf)  
+>Discuss many pre-training strategies for LID.  
 
 **Interspeech 2022**:  
 13.1 [PHO-LID: A Unified Model Incorporating Acoustic-Phonetic and Phonotactic Information for Language Identification](https://arxiv.org/abs/2203.12366)  
+>Incorporating phonotactic information in general LID model via a unsupervised phonem segmentation auxilary task. Show high performance improvement on long speech (advantage of phonotactic LID).  
 
 **TASLP**:  
 1. 2020 volume 28 [Towards Relevance and Sequence Modeling in Language Recognition](https://ieeexplore.ieee.org/document/9052484)  
