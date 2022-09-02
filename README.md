@@ -141,7 +141,7 @@ Odyssey 2018: [Spoken Language Recognition using X-vectors](https://www.danielpo
 **JSTSP**:
 1. [Efficient Self-supervised Learning Representations for Spoken Language Identification](https://ieeexplore.ieee.org.remotexs.ntu.edu.sg/document/9866521)  
 
->This paper illustrates that wav2vec features extracted from XLSR-53 perform well for LID, indicating that features from middle layers (14~16) are the best for LID. In the mean time, a linear bottleneck block (LBN) and an attentive squeeze-and-excitation block are proposed to reduce irrelevant information to improve LID performance. The model with LBN shows even better performance than finetuning. So detailed because this is my work.  
+>This paper illustrates that wav2vec features extracted from XLSR-53 perform well for LID, indicating that features from middle layers (14~16) are the best for LID. In the mean time, a linear bottleneck block (LBN) and an attentive squeeze-and-excitation block are proposed to reduce irrelevant information to improve LID performance. The model with LBN shows even better performance than finetuning. So detailed because this is my work. (Code is available)  
 
 
 ## Performance comparison:
