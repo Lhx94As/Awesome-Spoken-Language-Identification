@@ -107,7 +107,7 @@ Odyssey 2018: [Spoken Language Recognition using X-vectors](https://www.danielpo
 >Apply transformer encoder layers as a pooling module for speaker verification, but I think it can also work for LID.  
 
 10.5 [End-to-End Language Diarization for Bilingual Code-Switching Speech](https://www.isca-speech.org/archive/pdfs/interspeech_2021/liu21d_interspeech.pdf)  
->TDNN layers + transformer encoder layers for bilingual code-switching LID (language diarization in this case), the last two TDNN layers are replaced by transformer encoder layers.   
+>TDNN layers + transformer encoder layers for bilingual code-switching LID (language diarization in this case), the last two TDNN layers are replaced by transformer encoder layers. (My code, code is available in another repo)   
 
 **ICASSP 2022**:  
 11.1 [Phonotactic Language Recognition Using A Universal Phoneme Recognizer and A Transformer Architecture](https://ieeexplore.ieee.org/document/9746459)  
@@ -120,7 +120,7 @@ Odyssey 2018: [Spoken Language Recognition using X-vectors](https://www.danielpo
 
 **Odyssey 2022**:  
 12.1 [Enhancing Language Identification using Dual-mode Model with Knowledge Distillation](https://www.isca-speech.org/archive/pdfs/odyssey_2022/liu22c_odyssey.pdf)  
->Dual-mode LID, one for general speech, the other for its short clips. Show high performance improvement on both long and short-utterance LID.  
+>Dual-mode LID, one for general speech, the other for its short clips. Show high performance improvement on both long and short-utterance LID. (My work, source code is in another repo of mine)  
 
 12.2 [Attentive Temporal Pooling for Conformer-Based Streaming Language Identification in Long-Form Speech](https://www.isca-speech.org/archive/pdfs/odyssey_2022/wang22b_odyssey.pdf)  
 >Streaming LID is achieved by accumulating the statistics frame by frame. 
@@ -130,7 +130,7 @@ Odyssey 2018: [Spoken Language Recognition using X-vectors](https://www.danielpo
 
 **Interspeech 2022**:  
 13.1 [PHO-LID: A Unified Model Incorporating Acoustic-Phonetic and Phonotactic Information for Language Identification](https://arxiv.org/abs/2203.12366)  
->Incorporating phonotactic information in general LID model via a unsupervised phonem segmentation auxilary task. Show high performance improvement on long speech (advantage of phonotactic LID).  
+>Incorporating phonotactic information in general LID model via a unsupervised phonem segmentation auxilary task. Show high performance improvement on long speech (advantage of phonotactic LID). (My work, you can find the source code from my another repo)  
 
 **TASLP**:  
 1. 2020 volume 28 [Towards Relevance and Sequence Modeling in Language Recognition](https://ieeexplore.ieee.org/document/9052484)  
@@ -141,7 +141,7 @@ Odyssey 2018: [Spoken Language Recognition using X-vectors](https://www.danielpo
 **JSTSP**:
 1. [Efficient Self-supervised Learning Representations for Spoken Language Identification](https://ieeexplore.ieee.org.remotexs.ntu.edu.sg/document/9866521)  
 
->This paper illustrates that wav2vec features extracted from XLSR-53 perform well for LID, indicating that features from middle layers (14~16) are the best for LID. In the mean time, a linear bottleneck block and an attentive squeeze-and-excitation block are proposed to reduce irrelevant information to improve LID performance. The model with LBN shows even better performance than finetuning. So detailed because this is my work.  
+>This paper illustrates that wav2vec features extracted from XLSR-53 perform well for LID, indicating that features from middle layers (14~16) are the best for LID. In the mean time, a linear bottleneck block (LBN) and an attentive squeeze-and-excitation block are proposed to reduce irrelevant information to improve LID performance. The model with LBN shows even better performance than finetuning. So detailed because this is my work.  
 
 
 ## Performance comparison:
