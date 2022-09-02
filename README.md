@@ -116,6 +116,8 @@ Odyssey 2018: [Spoken Language Recognition using X-vectors](https://www.danielpo
 11.2 [Spoken Language Recognition with Cluster-Based Modeling](https://ieeexplore.ieee.org/document/9747515)  
 11.3 [Improved Language Identification Through Cross-Lingual Self-Supervised Learning](https://arxiv.org/pdf/2107.04082.pdf)  
 
+>Meta AI's work which extends wav2vec to LID, showing that XLSR-53 (multilingual wav2vec 2.0) is better than monolingual one and is able to achieve high accuracy with even very limited data for finetuning. This work also discussed the aggregation strategies (i.e., pooling layer), this part shows that mean + max + min is the best, which is a bit different from our experience that mean + std. pooling is better.  
+
 **Odyssey 2022**:  
 12.1 [Enhancing Language Identification using Dual-mode Model with Knowledge Distillation](https://www.isca-speech.org/archive/pdfs/odyssey_2022/liu22c_odyssey.pdf)  
 >Dual-mode LID, one for general speech, the other for its short clips. Show high performance improvement on both long and short-utterance LID.  
@@ -135,7 +137,13 @@ Odyssey 2018: [Spoken Language Recognition using X-vectors](https://www.danielpo
 >A summary of 4.5 and 5.3. (But the results of their baselines seems strange, from my personal understanding, the i-vector and x-vector may be exchanged)  
 2. 2022 volume 30 [A Discriminative Hierarchical PLDA-Based Model for Spoken Language Recognition](https://ieeexplore.ieee.org/document/9844653)  
 >
-  
+
+**JSTSP**:
+1. [Efficient Self-supervised Learning Representations for Spoken Language Identification](https://ieeexplore.ieee.org.remotexs.ntu.edu.sg/document/9866521)  
+
+>This paper illustrates that wav2vec features extracted from XLSR-53 perform well for LID, indicating that features from middle layers (14~16) are the best for LID. In the mean time, a linear bottleneck block and an attentive squeeze-and-excitation block are proposed to reduce irrelevant information to improve LID performance. The model with LBN shows even better performance than finetuning. So detailed because this is my work.  
+
+
 ## Performance comparison:
 ![plot](https://github.com/Lhx94As/Awesome-Spoken-Language-Identification/blob/main/performance_.png)  
 **Note that the results of GMM ivector, DNN ivector and xvector are reported in 4.3, and all evaluations are conducted on NIST LRE 07. Some paper used data augmentation which can improve the performance**  
