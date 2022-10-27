@@ -129,8 +129,12 @@ Odyssey 2018: [Spoken Language Recognition using X-vectors](https://www.danielpo
 >Discuss many pre-training strategies for LID.  
 
 **Interspeech 2022**:  
-13.1 [PHO-LID: A Unified Model Incorporating Acoustic-Phonetic and Phonotactic Information for Language Identification](https://arxiv.org/abs/2203.12366)  
+13.1 [PHO-LID: A Unified Model Incorporating Acoustic-Phonetic and Phonotactic Information for Language Identification](https://www.isca-speech.org/archive/interspeech_2022/liu22e_interspeech.html)  
 >Incorporating phonotactic information in general LID model via a unsupervised phonem segmentation auxilary task. Show high performance improvement on long speech (advantage of phonotactic LID). (My work, you can find the source code from my another repo)  
+13.2 [Oriental Language Recognition (OLR) 2021: Summary and Analysis](https://www.isca-speech.org/archive/interspeech_2022/wang22ga_interspeech.html)  
+13.3 [Ant Multilingual Recognition System for OLR 2021 Challenge](https://www.isca-speech.org/archive/interspeech_2022/lyu22_interspeech.html)  
+13.4 [Transducer-based language embedding for spoken language identification](https://www.isca-speech.org/archive/interspeech_2022/shen22b_interspeech.html)  
+>Adopting the RNN-T framework to generate input features for LID model (stat. pooling + linears, in this paper). In other words, this paper incorporate text information and acoustic information.   
 
 **TASLP**:  
 1. 2020 volume 28 [Towards Relevance and Sequence Modeling in Language Recognition](https://ieeexplore.ieee.org/document/9052484)  
