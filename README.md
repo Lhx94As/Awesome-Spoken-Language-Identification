@@ -134,7 +134,7 @@ Odyssey 2018: [Spoken Language Recognition using X-vectors](https://www.danielpo
 13.2 [Oriental Language Recognition (OLR) 2021: Summary and Analysis](https://www.isca-speech.org/archive/interspeech_2022/wang22ga_interspeech.html)  
 13.3 [Ant Multilingual Recognition System for OLR 2021 Challenge](https://www.isca-speech.org/archive/interspeech_2022/lyu22_interspeech.html)  
 13.4 [Transducer-based language embedding for spoken language identification](https://www.isca-speech.org/archive/interspeech_2022/shen22b_interspeech.html)  
->Adopting the RNN-T framework to generate input features for LID model (stat. pooling + linears, in this paper). In other words, this paper incorporate text information and acoustic information.   
+>Adopting the RNN-T framework to generate input features for LID model (stat. pooling + linears, in this paper). In other words, this paper incorporate text information and acoustic information. Kind of multi-modal from my understanding.   
 
 **TASLP**:  
 1. 2020 volume 28 [Towards Relevance and Sequence Modeling in Language Recognition](https://ieeexplore.ieee.org/document/9052484)  
