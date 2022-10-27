@@ -119,24 +119,24 @@ Odyssey 2018: [Spoken Language Recognition using X-vectors](https://www.danielpo
 >Meta AI's work which extends wav2vec to LID, showing that XLSR-53 (multilingual wav2vec 2.0) is better than monolingual one and is able to achieve high accuracy with even very limited data for finetuning. This work also discussed the aggregation strategies (i.e., pooling layer), this part shows that mean + max + min is the best, which is a bit different from our experience that mean + std. pooling is better.  
 
 **Odyssey 2022**:  
-12.1 [Enhancing Language Identification using Dual-mode Model with Knowledge Distillation](https://www.isca-speech.org/archive/pdfs/odyssey_2022/liu22c_odyssey.pdf)  
+12.1 [Enhancing Language Identification using Dual-mode Model with Knowledge Distillation](https://www.isca-speech.org/archive/pdfs/odyssey_2022/liu22c_odyssey.pdf)(test on NIST LRE 2017)   
 >Dual-mode LID, one for general speech, the other for its short clips. Show high performance improvement on both long and short-utterance LID. (My work, source code is in another repo of mine)  
 
-12.2 [Attentive Temporal Pooling for Conformer-Based Streaming Language Identification in Long-Form Speech](https://www.isca-speech.org/archive/pdfs/odyssey_2022/wang22b_odyssey.pdf)  
+12.2 [Attentive Temporal Pooling for Conformer-Based Streaming Language Identification in Long-Form Speech](https://www.isca-speech.org/archive/pdfs/odyssey_2022/wang22b_odyssey.pdf) 
 >Streaming LID is achieved by accumulating the statistics frame by frame. 
 
 12.3 [Pretraining Approaches for Spoken Language Recognition: TalTech Submission to the OLR 2021 Challenge](https://www.isca-speech.org/archive/pdfs/odyssey_2022/alumae22_odyssey.pdf)  
 >Discuss many pre-training strategies for LID.  
 
 **Interspeech 2022**:  
-13.1 [PHO-LID: A Unified Model Incorporating Acoustic-Phonetic and Phonotactic Information for Language Identification](https://www.isca-speech.org/archive/interspeech_2022/liu22e_interspeech.html)  
+13.1 [PHO-LID: A Unified Model Incorporating Acoustic-Phonetic and Phonotactic Information for Language Identification](https://www.isca-speech.org/archive/interspeech_2022/liu22e_interspeech.html)(test on NIST LRE 2017 & OLR17)   
 >Incorporating phonotactic information in general LID model via a unsupervised phonem segmentation auxilary task. Show high performance improvement on long speech (advantage of phonotactic LID). (My work, you can find the source code from my another repo)  
 
 13.2 [Oriental Language Recognition (OLR) 2021: Summary and Analysis](https://www.isca-speech.org/archive/interspeech_2022/wang22ga_interspeech.html)  
 
 13.3 [Ant Multilingual Recognition System for OLR 2021 Challenge](https://www.isca-speech.org/archive/interspeech_2022/lyu22_interspeech.html)  
 
-13.4 [Transducer-based language embedding for spoken language identification](https://www.isca-speech.org/archive/interspeech_2022/shen22b_interspeech.html)  
+13.4 [Transducer-based language embedding for spoken language identification](https://www.isca-speech.org/archive/interspeech_2022/shen22b_interspeech.html)(test on Librispeech and VoxLingual)  
 >Adopting the RNN-T framework to generate input features for LID model (stat. pooling + linears, in this paper). In other words, this paper incorporate text information and acoustic information. Kind of multi-modal from my understanding.   
 
 **TASLP**:  
@@ -146,7 +146,7 @@ Odyssey 2018: [Spoken Language Recognition using X-vectors](https://www.danielpo
 >
 
 **JSTSP**:
-1. [Efficient Self-supervised Learning Representations for Spoken Language Identification](https://ieeexplore.ieee.org.remotexs.ntu.edu.sg/document/9866521)  
+1. [Efficient Self-supervised Learning Representations for Spoken Language Identification](https://ieeexplore.ieee.org.remotexs.ntu.edu.sg/document/9866521)(test on NIST LRE 2017 & OLR19)  
 
 >This paper illustrates that wav2vec features extracted from XLSR-53 perform well for LID, indicating that features from middle layers (14~16) are the best for LID. In the mean time, a linear bottleneck block (LBN) and an attentive squeeze-and-excitation block are proposed to reduce irrelevant information to improve LID performance. The model with LBN shows even better performance than finetuning. So detailed because this is my work. (Code is available)  
 
