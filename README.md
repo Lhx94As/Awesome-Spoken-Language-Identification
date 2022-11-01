@@ -113,7 +113,10 @@ Odyssey 2018: [Spoken Language Recognition using X-vectors](https://www.danielpo
 11.1 [Phonotactic Language Recognition Using A Universal Phoneme Recognizer and A Transformer Architecture](https://ieeexplore.ieee.org/document/9746459)  
 >Phonotactic LID with transformer encoder.  
 
-11.2 [Spoken Language Recognition with Cluster-Based Modeling](https://ieeexplore.ieee.org/document/9747515)  
+11.2 [Spoken Language Recognition with Cluster-Based Modeling](https://ieeexplore.ieee.org/document/9747515)(test on LRE15 & OLR20)  
+
+>Looks into cluster-based method for LID.  
+
 11.3 [Improved Language Identification Through Cross-Lingual Self-Supervised Learning](https://arxiv.org/pdf/2107.04082.pdf)  
 
 >Meta AI's work which extends wav2vec to LID, showing that XLSR-53 (multilingual wav2vec 2.0) is better than monolingual one and is able to achieve high accuracy with even very limited data for finetuning. This work also discussed the aggregation strategies (i.e., pooling layer), this part shows that mean + max + min is the best, which is a bit different from our experience that mean + std. pooling is better.  
@@ -129,7 +132,7 @@ Odyssey 2018: [Spoken Language Recognition using X-vectors](https://www.danielpo
 >Discuss many pre-training strategies for LID.  
 
 **Interspeech 2022**:  
-13.1 [PHO-LID: A Unified Model Incorporating Acoustic-Phonetic and Phonotactic Information for Language Identification](https://www.isca-speech.org/archive/interspeech_2022/liu22e_interspeech.html)(test on NIST LRE 2017 & OLR17)   
+13.1 [PHO-LID: A Unified Model Incorporating Acoustic-Phonetic and Phonotactic Information for Language Identification](https://www.isca-speech.org/archive/interspeech_2022/liu22e_interspeech.html)(test on LRE17 & OLR17)   
 >Incorporating phonotactic information in general LID model via a unsupervised phonem segmentation auxilary task. Show high performance improvement on long speech (advantage of phonotactic LID). (My work, you can find the source code from my another repo)  
 
 13.2 [Oriental Language Recognition (OLR) 2021: Summary and Analysis](https://www.isca-speech.org/archive/interspeech_2022/wang22ga_interspeech.html)  
