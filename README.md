@@ -115,7 +115,7 @@ Odyssey 2018: [Spoken Language Recognition using X-vectors](https://www.danielpo
 
 11.2 [Spoken Language Recognition with Cluster-Based Modeling](https://ieeexplore.ieee.org/document/9747515)(test on LRE15 & OLR20)  
 
->Looks into cluster-based method for LID.  
+>Looks into cluster-based classifier for LID.  
 
 11.3 [Improved Language Identification Through Cross-Lingual Self-Supervised Learning](https://arxiv.org/pdf/2107.04082.pdf)  
 
