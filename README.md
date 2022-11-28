@@ -5,10 +5,7 @@ I made this repository to help people who are working alone for LID or fresh to 
 **Updated descriptions for some papers. For those I didn't, either I forgot what it is exactly about or the title is too straightforward.**  
 **A pytorch x-vector implementation was put in this repo, yet I recommend more the asv-subtools, espnet, and kaldi recipe, they are better**
 # News:  
-1. The interspeech 2022 will be held in late September in Korea.  
-2. JSTSP held a special issue for self-supervised learning for speech signal processing, papers may be released soon.  
-3. NIST LRE 2022 is calling for participation.  
-4. ICASSP 2023 is calling for papers.
+1. [The interspeech 2023 is calling for papers](https://www.interspeech2023.org/call-for-papers/).  
 
 
 # Recommended conferences&Journals:
