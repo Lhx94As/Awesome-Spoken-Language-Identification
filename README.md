@@ -6,6 +6,8 @@ I made this repository to help people who are working alone for LID or fresh to 
 **A pytorch x-vector implementation was put in this repo, yet I recommend more the asv-subtools, espnet, and kaldi recipe, they are better**
 # News:  
 1. [The interspeech 2023 is calling for papers](https://www.interspeech2023.org/call-for-papers/).  
+2. We are holding a LID challenge in Interspeech 2023! The detailed information will be released soon!  
+
 
 
 # Recommended conferences&Journals:
