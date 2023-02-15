@@ -24,13 +24,14 @@ Interspeech, Odyssey, ICASSP, APSIPA, ASRU, SLT, TSP, TASLP, JSTSP, Speech Comm,
 3. [1st WSTCSMC](https://www.microsoft.com/en-us/research/event/workshop-on-speech-technologies-for-code-switching-2020/): A workshop on Speech Technologies for Code-switching in Multilingual Communities.  
 ## Toolkits:
 1. [Kaldi](https://kaldi-asr.org/) (Gorgeous toolkit, the LID parts are egs/LRE and egs/LRE07, developed by Dan Povey's team)  
-2. [ASV-Subtools](https://github.com/Snowdar/asv-subtools#2-ap-olr-challenge-2020-baseline-recipe-language-identification) (A toolkit bases on **kaldi&pytorch**, developed by Xiamen University's team)  
-3. [SpeechBrain](https://speechbrain.github.io/index.html)(SpeechBrain is an open-source and all-in-one speech toolkit relying on **PyTorch**, yet I have never tried it so far)  
-4. [lidbox](https://github.com/py-lidbox/lidbox) (Some implementations of models in recent Interspeech conferences on **tensorflow**)  
-5. [WeNet](https://github.com/wenet-e2e)  
-6. [ESPNet](https://github.com/espnet) For E2E ASR  
-7. [s3prl](https://github.com/Lhx94As/s3prl) For wav2vec models application  
-8. [hugging face](https://huggingface.co/docs/transformers/model_doc/wav2vec2) For wav2vec models  
+2. [hyperion](https://github.com/hyperion-ml/hyperion) (A speaker and language identification toolkit based on python, numpy, and torch)
+3. [ASV-Subtools](https://github.com/Snowdar/asv-subtools#2-ap-olr-challenge-2020-baseline-recipe-language-identification) (A toolkit bases on **kaldi&pytorch**, developed by Xiamen University's team)  
+4. [SpeechBrain](https://speechbrain.github.io/index.html)(SpeechBrain is an open-source and all-in-one speech toolkit relying on **PyTorch**, yet I have never tried it so far)  
+5. [lidbox](https://github.com/py-lidbox/lidbox) (Some implementations of models in recent Interspeech conferences on **tensorflow**)  
+6. [WeNet](https://github.com/wenet-e2e)  
+7. [ESPNet](https://github.com/espnet) For E2E ASR, easy to learn, custom, and use.  
+8. [s3prl](https://github.com/Lhx94As/s3prl) For wav2vec models application  
+9. [hugging face](https://huggingface.co/docs/transformers/model_doc/wav2vec2) For wav2vec models  
 ## Papers:  
 Apart from these LID papers, other papers about ASR, Speaker Verification/Recognition and Speaker Diarization are also worth reading.  
 (from 2018 to now, I am always updating the paper list)  
