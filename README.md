@@ -18,6 +18,7 @@ Interspeech, Odyssey, ICASSP, APSIPA, ASRU, SLT, TSP, TASLP, JSTSP, Speech Comm,
 [openslr](https://openslr.org/resources.php) (open-source, plenty of datasets!)  
 [Common-Voice](https://commonvoice.mozilla.org/en) (open-source, thousands of hours)  
 [OLR dataset](http://cslt.riit.tsinghua.edu.cn/mediawiki/index.php/OLR_Challenge_2020) Available to participants of the challenge.  
+[Voxlingual107](https://bark.phon.ioc.ee/voxlingua107/) I saw that more and more papers are using this dataset in Interspeech 2023 and NIST LRE 2022.  
 ## Workshops/Challenges:  
 1. [OLR Challenge](http://cslt.riit.tsinghua.edu.cn/mediawiki/index.php/OLR_Challenge_2020): An Annual challenge, it is a special session in Interspeech 2021.  
 2. [NIST LRE (the latest is LRE 2022)](https://www.nist.gov/itl/iad/mig/language-recognition): The NIST LRE data are the most commonly used data for LID task in Interspeech, ICASSP and other top conferences/journals.  
