@@ -108,7 +108,7 @@ Odyssey 2018: [Spoken Language Recognition using X-vectors](https://www.danielpo
 >Apply transformer encoder layers as a pooling module for speaker verification, but I think it can also work for LID.  
 
 10.5 [End-to-End Language Diarization for Bilingual Code-Switching Speech](https://www.isca-speech.org/archive/pdfs/interspeech_2021/liu21d_interspeech.pdf)  
->TDNN layers + transformer encoder layers for bilingual code-switching LID (language diarization in this case), the last two TDNN layers are replaced by transformer encoder layers. (My code, code is available in another repo)   
+>TDNN layers + transformer encoder layers for bilingual code-switching LID (language diarization in this case), the last two TDNN layers are replaced by transformer encoder layers. (Code is available in my another repo)   
 
 **ICASSP 2022**:  
 11.1 [Phonotactic Language Recognition Using A Universal Phoneme Recognizer and A Transformer Architecture](https://ieeexplore.ieee.org/document/9746459)  
@@ -134,7 +134,7 @@ Odyssey 2018: [Spoken Language Recognition using X-vectors](https://www.danielpo
 
 **Interspeech 2022**:  
 13.1 [PHO-LID: A Unified Model Incorporating Acoustic-Phonetic and Phonotactic Information for Language Identification](https://www.isca-speech.org/archive/interspeech_2022/liu22e_interspeech.html)(test on LRE17 & OLR17)   
->Incorporating phonotactic information in general LID model via a unsupervised phonem segmentation auxilary task. Show high performance improvement on long speech (advantage of phonotactic LID). (My work, you can find the source code from my another repo)  
+>Incorporating phonotactic information in general LID model via a unsupervised phonem segmentation auxilary task. Show high performance improvement on long speech (advantage of phonotactic LID). (My work, source code available)  
 
 13.2 [Oriental Language Recognition (OLR) 2021: Summary and Analysis](https://www.isca-speech.org/archive/interspeech_2022/wang22ga_interspeech.html)  
 
