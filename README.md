@@ -142,7 +142,24 @@ Odyssey 2018: [Spoken Language Recognition using X-vectors](https://www.danielpo
 
 13.4 [Transducer-based language embedding for spoken language identification](https://www.isca-speech.org/archive/interspeech_2022/shen22b_interspeech.html)(test on Librispeech and VoxLingual)  
 >Adopting the RNN-T framework to generate input features for LID model (stat. pooling + linears, in this paper). In other words, this paper incorporate text information and acoustic information. Kind of multi-modal from my understanding.   
-
+**Interspeech 2023**:  
+14.1 [Lightweight and Efficient Spoken Language Identification of Long-form Audio](https://www.isca-speech.org/archive/interspeech_2023/zhu23c_interspeech.html)  
+14.2 [End-to-End Spoken Language Diarization with Wav2vec Embeddings](https://www.isca-speech.org/archive/interspeech_2023/mishra23_interspeech.html)  
+14.3 [Efficient Spoken Language Recognition via Multilabel Classification](https://www.isca-speech.org/archive/interspeech_2023/nieto23_interspeech.html)  
+14.4 [Description and Analysis of ABC Submission to NIST LRE 2022](https://www.isca-speech.org/archive/interspeech_2023/matejka23_interspeech.html)
+14.5 [Exploring the Impact of Pretrained Models and Web-Scraped Data for the 2022 NIST Language Recognition Evaluation](https://www.isca-speech.org/archive/interspeech_2023/alumae23_interspeech.html)  
+14.6 [Advances in Language Recognition in Low Resource African Languages: The JHU-MIT Submission for NIST LRE22](https://www.isca-speech.org/archive/interspeech_2023/villalba23_interspeech.html)  
+14.7 [What Can an Accent Identifier Learn? Probing Phonetic and Prosodic Information in a Wav2vec2-based Accent Identification Model](https://www.isca-speech.org/archive/interspeech_2023/yang23v_interspeech.html)
+14.8 [Description and analysis of the KPT system for NIST Language Recognition Evaluation 2022](https://www.isca-speech.org/archive/interspeech_2023/sarni23_interspeech.html)
+14.9 [Wavelet Scattering Transform for Improving Generalization in Low-Resourced Spoken Language Identification](https://www.isca-speech.org/archive/interspeech_2023/dey23_interspeech.html)  
+14.10 [A Parameter-Efficient Learning Approach to Arabic Dialect Identification with Pre-Trained General-Purpose Speech Model](https://www.isca-speech.org/archive/interspeech_2023/radhakrishnan23_interspeech.html)
+14.11 [Self-supervised Learning Representation based Accent Recognition with Persistent Accent Memory](https://www.isca-speech.org/archive/interspeech_2023/li23aa_interspeech.html)  
+14.12 [Multi-resolution Approach to Identification of Spoken Languages and To Improve Overall Language Diarization System Using Whisper Model](https://www.isca-speech.org/archive/interspeech_2023/vachhani23_interspeech.html)  
+14.13 [MERLIon CCS Challenge: Multilingual Everyday Recordings - Language Identification On Code-Switched Child-Directed Speech](https://www.isca-speech.org/archive/interspeech_2023/index.html)  
+>A language identification and diarization challenge on Singaporean English-Mandarin child-directed code-switching speech, still opening for new submissions.
+14.14 [Conformer-based Language Embedding with Self-Knowledge Distillation for Spoken Language Identification](https://www.isca-speech.org/archive/interspeech_2023/wang23ia_interspeech.html)  
+14.15 [A Compact End-to-End Model with Local and Global Context for Spoken Language Identification](https://www.isca-speech.org/archive/interspeech_2023/jia23b_interspeech.html)
+14.16 [Label Aware Speech Representation Learning For Language Identification](https://www.isca-speech.org/archive/interspeech_2023/vashishth23_interspeech.html)  
 **TASLP**:  
 1. 2020 volume 28 [Towards Relevance and Sequence Modeling in Language Recognition](https://ieeexplore.ieee.org/document/9052484)  
 >A summary of 4.5 and 5.3. (But the results of their baselines seems strange, from my personal understanding, the i-vector and x-vector may be exchanged)  
