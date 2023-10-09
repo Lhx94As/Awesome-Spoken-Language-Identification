@@ -141,7 +141,8 @@ Odyssey 2018: [Spoken Language Recognition using X-vectors](https://www.danielpo
 13.3 [Ant Multilingual Recognition System for OLR 2021 Challenge](https://www.isca-speech.org/archive/interspeech_2022/lyu22_interspeech.html)  
 
 13.4 [Transducer-based language embedding for spoken language identification](https://www.isca-speech.org/archive/interspeech_2022/shen22b_interspeech.html)(test on Librispeech and VoxLingual)  
->Adopting the RNN-T framework to generate input features for LID model (stat. pooling + linears, in this paper). In other words, this paper incorporate text information and acoustic information. Kind of multi-modal from my understanding.   
+>Adopting the RNN-T framework to generate input features for LID model (stat. pooling + linears, in this paper). In other words, this paper incorporate text information and acoustic information. Kind of multi-modal from my understanding.  
+
 **Interspeech 2023**:  
 14.1 [Lightweight and Efficient Spoken Language Identification of Long-form Audio](https://www.isca-speech.org/archive/interspeech_2023/zhu23c_interspeech.html)  
 14.2 [End-to-End Spoken Language Diarization with Wav2vec Embeddings](https://www.isca-speech.org/archive/interspeech_2023/mishra23_interspeech.html)  
