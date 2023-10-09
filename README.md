@@ -3,10 +3,10 @@ A spoken LID repository, mainly focuses on conference papers since they are upda
 I made this repository to help people who are working alone for LID or fresh to this area. So feel free to discuss with me by email, etc.  
 
 **Updated descriptions for some papers. For those I didn't, either I forgot what it is exactly about or the title is too straightforward.**  
-**A pytorch x-vector implementation was put in this repo, yet I recommend more the asv-subtools, espnet, and kaldi recipe, they are better**
+**A PyTorch x-vector implementation was put in this repo, yet I recommend the asv-subtools, espnet, and kaldi recipe; they are better**
 # News:  
-1. [Interspeech 2023](https://www.interspeech2023.org/call-for-papers/) I will try to supplement papers accepted to interspeech and ICASSP 2023 to this repo.  
-2. Our MERLION challenge has been accepted by Interspeech 2023 and will be glad to see you in Dublin! The related dataset and papers will be released soon.
+1. I have updated papers in Interspeech 2023, glad to see that more papers were submitted and accepted!
+2. Our MERLION challenge has been accepted by Interspeech 2023. The related papers can be found in Interspeech 2023 archive.
 
 
 
