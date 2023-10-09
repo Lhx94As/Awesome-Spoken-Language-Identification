@@ -160,7 +160,7 @@ Odyssey 2018: [Spoken Language Recognition using X-vectors](https://www.danielpo
 >A language identification and diarization challenge on Singaporean English-Mandarin child-directed code-switching speech, still opening for new submissions.
 
 14.14 [Conformer-based Language Embedding with Self-Knowledge Distillation for Spoken Language Identification](https://www.isca-speech.org/archive/interspeech_2023/wang23ia_interspeech.html)  
-14.15 [A Compact End-to-End Model with Local and Global Context for Spoken Language Identification](https://www.isca-speech.org/archive/interspeech_2023/jia23b_interspeech.html)
+14.15 [A Compact End-to-End Model with Local and Global Context for Spoken Language Identification](https://www.isca-speech.org/archive/interspeech_2023/jia23b_interspeech.html)  
 14.16 [Label Aware Speech Representation Learning For Language Identification](https://www.isca-speech.org/archive/interspeech_2023/vashishth23_interspeech.html)  
 **TASLP**:  
 1. 2020 volume 28 [Towards Relevance and Sequence Modeling in Language Recognition](https://ieeexplore.ieee.org/document/9052484)  
